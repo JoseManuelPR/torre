@@ -1,0 +1,6 @@
+[submodule "torre-api"]
+	path = torre-api
+	url = git@github.com:JoseManuelPR/torre-api.git
+[submodule "torre-front"]
+	path = torre-front
+	url = git@github.com:JoseManuelPR/torre-front.git
